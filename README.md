@@ -1,23 +1,16 @@
 # flutter_today_news
 高仿今日头条
-[image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/filename.gif)
 
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/截屏2020-04-23%20上午9.50.09.png)
 
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/截屏2020-04-23%20上午9.54.49.png)
+[image](https://upload-images.jianshu.io/upload_images/5898962-6d5ae3a4f2748d90.png?imageMogr2/auto-orient/strip)
 
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/截屏2020-04-23%20上午9.55.50.png)
+![image](https://upload-images.jianshu.io/upload_images/5898962-c4f7bf2d1a40f901.png?imageMogr2/auto-orient/strip)
 
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/截屏2020-04-23%20上午9.56.26.png)
+![image](https://upload-images.jianshu.io/upload_images/5898962-ea48c22bdb72520d.png?imageMogr2/auto-orient/strip)
 
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Screenshot_1587443798.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Screenshot_1587443828.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.22.08.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.22.55.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.23.11.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.23.47.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.24.04.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.24.11.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.24.27.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.25.35.png)
-![image](https://github.com/italianshen/flutter_today_news/blob/master/flutter_today_news/images/resources/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-15%20at%2011.25.38.png)
+![image](https://upload-images.jianshu.io/upload_images/5898962-edb3c4b74a3efde2.png?imageMogr2/auto-orient/strip)
+
+![image](https://upload-images.jianshu.io/upload_images/5898962-2805e4b7b44a77dc.png?imageMogr2/auto-orient/strip)
+
+![image](https://upload-images.jianshu.io/upload_images/5898962-ff01735d91f9e694.png?imageMogr2/auto-orient/strip)
+![image](https://upload-images.jianshu.io/upload_images/5898962-b0fd374eb196c24f.png?imageMogr2/auto-orient/strip)
