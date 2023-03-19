@@ -2,7 +2,7 @@
 高仿今日头条
 
 
-[image](https://upload-images.jianshu.io/upload_images/5898962-6d5ae3a4f2748d90.png?imageMogr2/auto-orient/strip)
+![image](https://upload-images.jianshu.io/upload_images/5898962-6d5ae3a4f2748d90.png?imageMogr2/auto-orient/strip)
 
 ![image](https://upload-images.jianshu.io/upload_images/5898962-c4f7bf2d1a40f901.png?imageMogr2/auto-orient/strip)
 
